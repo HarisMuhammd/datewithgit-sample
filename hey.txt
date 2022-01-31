@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hey haris,
 how are you
+=======
+hi how are you ,
+can we make tommorrow
+>>>>>>> feature
